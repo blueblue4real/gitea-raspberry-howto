@@ -28,7 +28,7 @@ Gitea reqiures a database to handle user and system data. You can choose between
 Install PostgreSQL by using the following command:
 
 ````
-sudo apt-get install postgreSQL
+sudo apt-get install postgresql
 ````
 Open PostgreSQL terminal to create a user for Gitea.
 ````
