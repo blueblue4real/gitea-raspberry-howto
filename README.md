@@ -21,7 +21,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ````
 ### Install a database
-Gitea reqiures a database to handle user and system data. You can choose between MariaDB, PostgreSQL, SQlite3, MSSQL. For this installation we will use PostgreSQL.
+Gitea requires a database to handle user and system data. You can choose between MariaDB, PostgreSQL, SQlite3, MSSQL. For this installation we will use PostgreSQL.
 
 > Note! Version 10.1 of MariaDB is not compatible with Gitea version 1.5.1. Please follow the issue https://github.com/go-gitea/gitea/issues/2979 if you plan to install MariaDB.
 
